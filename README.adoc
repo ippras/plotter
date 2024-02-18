@@ -1,0 +1,10 @@
+= Plotter
+:nofooter:
+
+Algaelette plotter
+
+== Screenshots
+
+image::doc/absolute.png[absolute]
+
+image::doc/relative.png[relative]
